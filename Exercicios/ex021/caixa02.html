@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grouping Tags</title>
+
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            background-image: linear-gradient(to right, #F2889B, #f1c58e, #f09059);
+            margin: 0px;
+
+        }
+
+
+        header{
+            background-color: #FFF8EE;
+            padding: 10px;
+            margin: 10px;
+            box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.575);  
+            border-radius: 0px 5px 10px 10px;          
+        }
+            header>h1{
+                text-align: center;
+                margin: 3px;
+            }
+        
+
+        nav{
+            background-color: #d8d3cbee;
+            padding: 3px;
+            text-align: center;
+            box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.575);
+            border-radius: 3px;
+        }
+            nav>a{
+                text-decoration: none;
+                color: #F28444;
+                font-weight: bold;
+                margin-right: 10px;
+
+            }
+            nav>a:hover{
+                text-decoration: underline;
+            }
+
+
+        main{
+            background-color: #FFF8EE;
+            padding: 10px;
+            margin: 10px;
+            box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.575);
+            border-radius: 0px 5px 10px 10px;
+        }
+
+
+        #assuntos{
+            font-weight: bolder;
+            }
+        
+
+        article{
+            background-color: #d8d3cbee;
+            padding: 5px;
+            box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.575);
+            border-radius: 3px;
+        }
+        article>h2{ /*"Sobre mim"*/
+            margin: 0px;
+        }
+        article>p{ /*texto do sobre mim*/
+            text-align: justify;
+        }
+        article>aside{
+            margin: 0px;
+            padding: 0px;
+        }
+
+        footer{
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 4px;
+            margin: 0px;
+        }
+            footer>p{
+                margin: 0px;
+            }
+
+    </style>
+
+
+</head>
+<body>
+    <header><!--cabeçalho-->
+        <h1>Meu Site</h1>
+        <nav>
+            <a href="#">Linkedin</a>
+            <a href="#">Twitch</a>
+            <a href="#">Youtube</a>
+            <a href="#">GitHub</a>
+            <a href="#">Instagram</a>
+
+        </nav>
+    </header>
+    <main>
+        <section id="assuntos">
+                <h1>Rafael Dutra</h1>
+        </section>
+        <section id="noticias">
+            <article>
+                <h2>Sobre mim:</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore sit veniam quibusdam aliquid atque facere quae voluptas consequatur odio quis! Mollitia eos sapiente suscipit saepe ipsa odit molestias sunt rem.</p>
+                <aside>
+                    <p>Artigo escrito por Fulaninho</p>
+                </aside>
+            </article>
+            
+        </section>
+
+    </main>
+    <footer><!--Rodapé-->
+        <p>Desenvolvido pelo Curso em Video</p>
+    </footer>
+
+</body>
+</html>
