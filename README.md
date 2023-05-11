@@ -1,5 +1,5 @@
 # HTML-CSS
-LINK DESTE REPOSITÓRIO: https://rafael-dutra-create.github.io/HTML-CSS/
+<a href="https://rafael-dutra-create.github.io/HTML-CSS/" target="_blank">LINK DESTE REPOSITÓRIO </a>
 
 Curso de HTML5 e CSS3 do CursoemVideo.
 
