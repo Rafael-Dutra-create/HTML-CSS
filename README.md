@@ -7,6 +7,6 @@ Estou aprendendo a criar sites!
 
 Veja meus desafios durante o Curso:
 
-<a href="https://rafael-dutra-create.github.io/HTML-CSS/desafios/ProjetoAndroid/desafio">Projeto Android</a>
+<a href="https://rafael-dutra-create.github.io/HTML-CSS/desafios/ProjetoAndroid/desafio" target="_blank">Projeto Android</a>
 
-<a href="https://rafael-dutra-create.github.io/HTML-CSS/desafios/CordelModerno/index">Cordel Moderno</a>
+<a href="https://rafael-dutra-create.github.io/HTML-CSS/desafios/CordelModerno/index" target="_blank">Cordel Moderno</a>
