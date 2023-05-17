@@ -13,4 +13,4 @@ Veja meus desafios durante o Curso:
 
 <a href="https://rafael-dutra-create.github.io/HTML-CSS/desafios/Tabela/index" target="_blank">Tabela</a>
 
-<a href="https://rafael-dutra-create.github.io/HTML-CSS/desafios/RedeSocial/index" target="_blank">Projeto Redes Sociais</a>
+<a href="https://rafael-dutra-create.github.io/HTML-CSS/desafios/RedeSocial/index.html" target="_blank">Projeto Redes Sociais</a>
