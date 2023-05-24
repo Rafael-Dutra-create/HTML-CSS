@@ -10,7 +10,7 @@ Desktop: de 992px até 1200px
 Grandes Telas: acima de 1200px
 */
 :root{
-    --degrade: linear-gradient( to top, #5c7a84,#0d202eee,#a14636, #ad4d3c);
+    --degrade: linear-gradient( to top, #5c7a84,#0d202eee,#a14636);
     --cor-celular: #5c7a84;
     --cor-fundo-login: white;
 }
@@ -30,6 +30,9 @@ Grandes Telas: acima de 1200px
     section#login > div#formulario{
         float: right;
         width: 70%;
+    }
+    div#formulario > p{
+        font-size: 1em;
     }    
 }
 
@@ -43,12 +46,15 @@ Grandes Telas: acima de 1200px
     }
 
     section#login > div#imagem{
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
     section#login > div#formulario{
-        float: right;
+        float: left;
         width: 50%;
+    }
+    div#formulario > p{
+        font-size: 1.1em;
     }
 }
